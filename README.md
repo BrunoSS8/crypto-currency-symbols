@@ -17,6 +17,7 @@ Unicode symbols for different crypto currencies.
 | Litecoin        |LTC     |Ł      |
 | EOS             |EOS     |ε      |
 | Cardano         |ADA     |₳      |
+| Dfinity         |ICP     |♾      |
 | Tezos           |XTZ     |ꜩ      |
 | Monero          |XMR     |ɱ      |
 | Ethereum Classic|ETC     |ξ      |
